@@ -1,5 +1,4 @@
 ﻿#
-# Script.ps1
 #
 # Onedrive sync status scipt. 
 # Can NOT run as administrator
